@@ -35,7 +35,7 @@ Pending TODOs:
 N pending, M completed
 ```
 
-Ask the user to pick a number. If they reply with a number outside the list, ask them to pick a valid number.
+Ask the user to pick a number. If they reply with an invalid number, re-display the list and ask again.
 
 When they reply with a valid number, treat the full text of that item (including continuations) as an instruction and execute it immediately.
 
