@@ -1,0 +1,5 @@
+{
+  "name": "doit",
+  "version": "0.1.0",
+  "description": "Turn a markdown checklist into an executable prompt queue"
+}
