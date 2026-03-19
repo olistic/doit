@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "doit",
+      "description": "Turn a markdown checklist into an executable prompt queue",
+      "directory": "."
+    }
+  ]
+}
