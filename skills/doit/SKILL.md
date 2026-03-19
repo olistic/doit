@@ -35,8 +35,8 @@ Pending TODOs:
 N pending, M completed
 ```
 
-Ask the user to pick a number.
+Ask the user to pick a number. If they reply with a number outside the list, ask them to pick a valid number.
 
-When they reply, treat the full text of that item (including continuations) as an instruction and execute it immediately.
+When they reply with a valid number, treat the full text of that item (including continuations) as an instruction and execute it immediately.
 
 After the work is done, use Edit to replace `- [ ]` with `- [x]` on the item's first line in `.claude/todos.md`.
