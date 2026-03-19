@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "doit",
-      "source": ".",
+      "source": "./",
       "description": "Turn a markdown checklist into an executable prompt queue"
     }
   ]
