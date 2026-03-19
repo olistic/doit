@@ -29,7 +29,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that turn
 ## Install
 
 ```sh
-claude plugin install doit
+claude plugin install olistic/doit
 ```
 
 ## File format
