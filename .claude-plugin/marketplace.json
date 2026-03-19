@@ -1,9 +1,13 @@
 {
+  "name": "doit",
+  "owner": {
+    "name": "Matias Olivera"
+  },
   "plugins": [
     {
       "name": "doit",
-      "description": "Turn a markdown checklist into an executable prompt queue",
-      "directory": "."
+      "source": ".",
+      "description": "Turn a markdown checklist into an executable prompt queue"
     }
   ]
 }
