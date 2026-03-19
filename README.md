@@ -28,8 +28,11 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that turn
 
 ## Install
 
-```sh
-claude plugin install olistic/doit
+In Claude Code, run:
+
+```
+/plugin marketplace add https://github.com/olistic/doit.git
+/plugin install doit
 ```
 
 ## File format
